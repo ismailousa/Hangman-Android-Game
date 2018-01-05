@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>ŞARJ</item>
+        <item>BİLGİSAYAR</item>
+        <item>TABLET</item>
+        <item>SİSTEM</item>
+        <item>UYGULAMA</item>
+        <item>INTERNET</item>
+        <item>KALEM</item>
+        <item>ANDROID</item>
+        <item>KLAVYE</item>
+        <item>TELEFON</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Adam Asmaca</string>
+    <string name="play">Başla</string>
+    <string name="gallows">The Gallows</string>
+    <string name="head">The Head</string>
+    <string name="body">The Body</string>
+    <string name="arm">An Arm</string>
+    <string name="leg">A Leg</string>
+    <string name="help">Yardım</string>
+    <string name="help_message">Harflere tıklayarak kelimeyi tahmin edin.\n\n Sadece 6 yanlış seçenek hakkınız var!\</string>
+    <string name="positive_message">OK</string>
+    <string name="congrats">TEBRİKLER</string>
+    <string name="win_message">Kazandınız!\n\nKelime:\n\n</string>
+    <string name="play_again">Tekrar Oyna</string>
+    <string name="exit">Çık</string>
+    <string name="lost">OOPS</string>
+    <string name="lost_message">Kaybettiniz!\n\nKelime:\n\n</string>
+</resources>

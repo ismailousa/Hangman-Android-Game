@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="play">Play</string>
+    <string name="gallows">The Gallows</string>
+    <string name="head">The Head</string>
+    <string name="body">The Body</string>
+    <string name="arm">An Arm</string>
+    <string name="leg">A Leg</string>
+    <string name="help">Help</string>
+    <string name="help_message">Guess the word by selecting the letters.\n\n You only have 6 wrong selections then it\'s game over!\</string>
+    <string name="positive_message">OK</string>
+    <string name="congrats">CONGRATS</string>
+    <string name="win_message">You won!\n\nThe answer was:\n\n</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="lost">OOPS</string>
+    <string name="lost_message">You lost!\n\nThe answer was:\n\n</string>
+</resources>
